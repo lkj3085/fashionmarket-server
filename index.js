@@ -23,4 +23,4 @@ res.end('Bye');
 
 server.listen(port, hostname);
 
-console.log("fashtion market server on");
+console.log("fashtion flower server on");
